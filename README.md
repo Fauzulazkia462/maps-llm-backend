@@ -7,7 +7,7 @@
 - Create a .env in the root folder
 - Declare vars in .env:
     - PORT
-    - HF_TOKEN
+    - HF_TOKEN (got from https://huggingface.co)
     - GOOGLE_MAPS_API_KEY
     - RATELIMIT_WINDOW_MS
     - RATELIMIT_MAX
